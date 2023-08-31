@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="t.me/npdexpert">
+  <a href="https://t.me/npdexpert">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="url">
+  <a href="https://www.instagram.com/npd.expert/">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
     <br>
