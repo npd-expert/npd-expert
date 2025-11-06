@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Логотип -->
-  <img src="https://cdn4.telegram-cdn.org/file/F_haYgMn2BOgG58Ezb6AtgqHt-9xXz4KYMz8Nh00ba9aaqxEnLaLsLOLfXOMfDRwltw2W4GatKjmeqKa1IlMyIRp9GfbRX6EBrNTVAfci2r9IXEkejh14RqztvhDfxeYxSnBIC7Ph0nI1FniFLnqF1MDNGWWFZvg0mzlWjkxLZG0U-ab5Gq5DbPJFWseAnK8fBpoJM6Ckeolm-MOAaJF0IP7NtXMwCkCF_vWM3FAO0AfXX15g9cMTvig6zaEgTKI83MnMSTMQA7o-dOg5dpAaPq8dDrcZ_dy1s_ve4Dq-QiiST3S9TyH6S4s49g8wwFP6IU7RxdqYq-GxEblESJE4A.jpg" 
+  <img src="https://raw.githubusercontent.com/npd-expert/npd-expert/main/assets/logo.png" 
        width="150" alt="NPD.expert logo"/>
 
   <!-- Соцсети -->
